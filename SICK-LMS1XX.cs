@@ -3,7 +3,7 @@
  * 
  * Author : beolabs.io / Benjamin Oms
  * Update : 12/06/2017
- * Github : https://github.com/beolabs-io/Coinmarketcap-APIv2
+ * Github : https://github.com/beolabs-io/SICK-Sensor-LMS1XX
  * 
  * --- MIT LICENCE ---
  * 
